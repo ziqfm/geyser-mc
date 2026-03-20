@@ -36,5 +36,4 @@ jobs:
           platforms: linux/arm64
           push: true
           tags: |
-            ghcr.io/${{ github.repository_owner }}/geyser-pi5:latest
-            ghcr.io/${{ github.repository_owner }}/geyser-pi5:nightly
+            ghcr.io/${{ github.repository_owner }}/geyser-mc:latest
